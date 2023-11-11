@@ -1,0 +1,14 @@
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.deps.json
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net7.0/KnowledgeCheck1_Calculator.pdb
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.pdb
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net7.0/ref/KnowledgeCheck1_Calculator.dll

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj",
+        "projectName": "KnowledgeCheck1_Calculator",
+        "projectPath": "/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj",
+        "packagesPath": "/Users/Reid/.nuget/packages/",
+        "outputPath": "/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_1/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Reid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

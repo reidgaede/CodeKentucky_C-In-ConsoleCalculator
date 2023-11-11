@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "KnowledgeCheck1_Calculator/1.0.0": {
+        "runtime": {
+          "KnowledgeCheck1_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnowledgeCheck1_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
