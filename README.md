@@ -1,4 +1,4 @@
-# CodeKentucky_C-In-ConsoleCalculator
+# CodeKentucky_C#-In-ConsoleCalculator
 
 Project completed as "Knowledge Check" at conclusion of Module 1 within Code Kentucky's/Code:You's Software Development Pathway.
 
